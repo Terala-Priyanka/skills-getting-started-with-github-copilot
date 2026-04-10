@@ -12,5 +12,15 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Testing
+
+Run the backend test suite with:
+
+```bash
+git clone <repo-url>
+cd skills-getting-started-with-github-copilot
+pytest
+```
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
